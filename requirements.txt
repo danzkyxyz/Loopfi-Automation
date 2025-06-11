@@ -1,0 +1,7 @@
+requests
+names
+eth_account
+faker
+beautifulsoup4
+colorama
+rich
