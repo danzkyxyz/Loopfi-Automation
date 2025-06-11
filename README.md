@@ -48,7 +48,7 @@ python3 bot.py
 
 ## 📁 Struktur Folder
 ```bash
-loopfi-giveaway-bot/
+loopfi-Automation/
 ├── bot.py               # Script utama
 ├── proxy.txt             # Daftar proxy (opsional)
 ├── data.json             # Data akun yang dibuat
